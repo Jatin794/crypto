@@ -1,30 +1,8 @@
-gatsby-project-kb
-===
+# crypto
+For my crypto. subdomain
 
-Here is a project developing a gatsby theme for publishing **K**nowledge **B**ase.
+Was originally hosted at https://jatinnagpal.hns.to/, but that's been getting slower and even unreliable at times. Thus, this repo can now be directly served from a CDN for maximal efficiency. The old index is still kept as oldindex.html and oldindex2.html for historical purposes only - they're likely to outdate soon or already by the time you're reading this. However, the change is gonna be well worth it.
 
-You can check out the demo and [documentation](https://gatsby-project-kb.vercel.app/).
-
-If you are looking for `gatsby-theme-kb`, go to directory [packages/gatsby-theme-kb](https://github.com/hikerpig/gatsby-project-kb/tree/master/packages/gatsby-theme-kb) for more detailed docs.
-
-![](https://i.loli.net/2021/01/28/cD6QRIZqUoum4Tf.png)
-
-# Development
-
-File structure:
-
-```
-├── demo // the demo site's code
-├── packages
-    └── gatsby-theme-kb // the Gatsby theme
-├── yarn.lock
-```
-
-This is a common structure for developing Gatsby theme using yarn workspace. You can check more on Gatsby official tutorial [Building a Theme](https://www.gatsbyjs.com/tutorial/building-a-theme/).
-
-## Run it locally
-
-```
-yarn # install dependencies
-yarn dev # start devlopment
-```
+Update #2:
+The old index no longer really matters. Finally, as planned, I'm switching the upstream to locally - The oldindex files still contain how it used to be when I made it using a personal card maker. Try visiting https://crypto.jatinnagpal.com/oldindex2 for a real preview.
+Now it's made using a cool new wiki starter for gatsby, as you can see from the fork details.
