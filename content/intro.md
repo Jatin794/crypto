@@ -1,4 +1,6 @@
-# Making a new crypto portal
+# Introduction
+
+## Making a new crypto portal
 
 The old page here was just a personal card purposed to act as a cryptocurrency portal. Technically works, but not an ideal solution.
 
