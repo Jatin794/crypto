@@ -8,3 +8,9 @@
 - [X] Support nested folder without the chore of manually adding link definitions
 - [ ] Better style for graph-view
 - [ ] Knobs to config the force graph in graph-view
+
+Personal
+
+- [ ] Fix the link in [[Uphold]]
+- [ ] Add links and details in [[Single-Chain Swaps]]
+- [ ] Add more stuff in [Research](/Research)
