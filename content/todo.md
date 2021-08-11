@@ -11,6 +11,5 @@
 
 Personal
 
-- [ ] Fix the link in [[Uphold]]
 - [ ] Add links and details in [[Single-Chain Swaps]]
 - [ ] Add more stuff in [Research](/Research)
