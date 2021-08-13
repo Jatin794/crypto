@@ -22,4 +22,5 @@ Update: The rest of the stuff is somewhat finished, so now I'll do some lazy upd
 
 [[Other Stuff]]
 
-_Affiliate disclosure : Many of the provided links are affiliate links, whenever they were available. If you prefer non-referral links, although it'd make me sad, you may use the [ClearURLs](https://clearurls.xyz/) browser extension.__
+
+_Affiliate disclosure : Many of the provided links are affiliate links, whenever they were available. If you prefer non-referral links, although it'd make me sad, you may use the [ClearURLs](https://clearurls.xyz/) browser extension._

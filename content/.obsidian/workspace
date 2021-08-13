@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "todo.md",
+            "file": "readme.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4a4bf88bbc313d06",
   "lastOpenFiles": [
-    "todo.md",
     "readme.md",
-    "Research.md",
-    "Social.md",
-    "Games.md",
     "Other Stuff.md",
+    "showcase.md",
+    "Social.md",
+    "theme-kb.md",
+    "todo.md",
+    "Research.md",
+    "Games.md",
     "Faucets.md",
-    "Faucets/Horizen.md",
-    "Exchanges.md",
-    "Games & Gambling/PipeFlare.md"
+    "Faucets/Horizen.md"
   ]
 }
