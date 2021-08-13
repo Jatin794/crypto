@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Misc.md",
+            "file": "Faucets/MinePi.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc.md",
+                "file": "Faucets/MinePi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4a4bf88bbc313d06",
   "lastOpenFiles": [
-    "Misc.md",
-    "readme.md",
-    "todo.md",
-    "Tip Me.md",
-    "Other Stuff.md",
-    "Untitled 1.md",
-    "Untitled.md",
+    "Faucets/Pi Network.md",
+    "Buy & Exchanges/Stormgain.md",
+    "Buy & Exchanges/Single-Chain Swaps.md",
+    "Buy & Exchanges/Demo Exchanges.md",
+    "Misc Crypto Projects/HiveOnboard.md",
     "Misc Crypto Projects/Brave Browser.md",
-    "Donate.md",
-    "Untitled 2.md"
+    "Misc Crypto Projects/CryptoTab Browser.md",
+    "readme.md",
+    "Misc Crypto Projects/LedgerNano.md",
+    "Misc Crypto Projects/Ledger Nano.md"
   ]
 }

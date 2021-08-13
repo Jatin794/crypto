@@ -44,7 +44,7 @@ DEXs:
 
 [[FixedFloat]]
 
-[[Single-Chain Swaps]]
+[[Buy & Exchanges/SingleChainSwaps]]
 
 
 Other:
