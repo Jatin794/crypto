@@ -20,9 +20,9 @@ Update: The rest of the stuff is somewhat finished, so now I'll do some lazy upd
 
 [[Research]]
 
-[[Other Stuff]]
+[[Misc]]
 
-[[Tip Me]]
+[[Tip]]
 
 
 

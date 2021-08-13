@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "todo.md",
+            "file": "Misc.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todo.md",
+                "file": "Misc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4a4bf88bbc313d06",
   "lastOpenFiles": [
+    "Misc.md",
+    "readme.md",
     "todo.md",
     "Tip Me.md",
-    "readme.md",
+    "Other Stuff.md",
     "Untitled 1.md",
     "Untitled.md",
     "Misc Crypto Projects/Brave Browser.md",
     "Donate.md",
-    "Untitled 2.md",
-    "Other Stuff.md",
-    "showcase.md"
+    "Untitled 2.md"
   ]
 }
