@@ -5,4 +5,4 @@ If that includes me, one easy way is to do it directly using a coin that's cheap
 
 <div> <a class="donate-with-crypto" href="https://commerce.coinbase.com/checkout/1d651c8e-7a25-4850-a78c-e0e2f40e100c"> Donate with Crypto </a> <script src="https://commerce.coinbase.com/v1/checkout.js?version=201807"> </script> </div>
 
-Might add more, but for now, drop me a message if you prefer a coin which isn't in that list (Cardano, Stellar, Neo, Harmony, Tron, BNB etc), and we'll figure something. My Jabber/XMPP is `shinsengumi@404.city`.
+Might add more, but for now, drop me a message if you prefer a coin which isn't in that list (Cardano, Stellar, Neo, Harmony, Tron, BNB etc), and we'll figure something. My Telegram (preferred) is `@Jnxpriv` and my Jabber/XMPP is `shinsengumi@404.city`.
