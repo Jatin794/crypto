@@ -1,3 +1,3 @@
-Has quite a few airdops regularly, but pretty expensive to withdraw most coins.
+Has quite a few airdops regularly so technically [[Faucets]] compatible, but pretty expensive to withdraw most coins.
 
 Check it out [here](https://latoken.com/invite?r=2vm78gze).

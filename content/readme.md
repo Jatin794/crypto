@@ -8,4 +8,18 @@ Thus, I now announce a new site that does its stuff more properly. However, this
 
 Alternatively, check out the sidebar for parts that might be complete already. This page will be the last to finish, after all. (Hint: The folders with capitalised first letter are going to be the permanent parts.)
 
+Update: The rest of the stuff is somewhat finished, so now I'll do some lazy updates in here. You can just hover over them if you feel too lazy to click. Table of Contents:
+
+[[Exchanges]]
+
+[[Faucets]]
+
+[[Games]]
+
+[[Social]]
+
+[[Research]]
+
+[[Other Stuff]]
+
 _Affiliate disclosure : Many of the provided links are affiliate links, whenever they were available. If you prefer non-referral links, although it'd make me sad, you may use the [ClearURLs](https://clearurls.xyz/) browser extension.__
