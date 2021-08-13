@@ -44,7 +44,7 @@ DEXs:
 
 [[FixedFloat]]
 
-[[Buy & Exchanges/SingleChainSwaps]]
+[[SingleChainSwaps]]
 
 
 Other:
@@ -62,3 +62,5 @@ Other:
 [[Bithumb]] (Korea)
 
 [[LocalBitcoins]] (Finland)
+
+[[DemoExchanges]]

@@ -6,6 +6,6 @@ Look no further, here is the list of sites that give you free coins. Don't expec
 
 [[Horizen]]
 
-[[Faucets/MinePi]]
+[[MinePi]]
 
 [[PreSearch]]
