@@ -63,4 +63,6 @@ Other:
 
 [[LocalBitcoins]] (Finland)
 
+[[Changelly]] (Malta)
+
 [[DemoExchanges]]
