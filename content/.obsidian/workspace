@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exchanges.md",
+            "file": "Tip.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exchanges.md",
+                "file": "Tip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "4a4bf88bbc313d06",
   "lastOpenFiles": [
+    "Tip.md",
+    "Buy & Exchanges/Changelly.md",
     "Exchanges.md",
     "Buy & Exchanges/Untitled.md",
     "Buy & Exchanges/Bitcoin.com.md",
@@ -95,8 +97,6 @@
     "Games.md",
     "Misc.md",
     "readme.md",
-    "Research.md",
-    "Social.md",
-    "Tip.md"
+    "Research.md"
   ]
 }
