@@ -6,15 +6,15 @@ import ThemeTopic, {
 
 interface TopicProps extends ThemeTopicProps {}
 
-const Topic = (props: TopicProps) => {
-  return (
-    <>
-      <ThemeTopic {...props}></ThemeTopic>
-      <div className="comment-wrapper">
-        <Comment issueTerm={props.file.fields.slug} />
-      </div>
-    </>
-  )
-}
+// const Topic = (props: TopicProps) => {
+//   return (
+//     <>
+//       <ThemeTopic {...props}></ThemeTopic>
+//       <div className="comment-wrapper">
+//         <Comment issueTerm={props.file.fields.slug} />
+//       </div>
+//     </>
+//   )
+// }
 
 export default Topic
