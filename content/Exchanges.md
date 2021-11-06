@@ -2,6 +2,8 @@ So you have some money (or crypto) and now you want to frivoslously play around 
 
 Update: Added recommended coins to use for withdrawal, especially if you, like me, use multiple exchanges and prefer low fees in transferring between them. Or if you want a not-expensive crypto exit strategy.
 
+Update 2: Added brief reliability reviews for the exchanges I've used often enough. Seems it should be helpful in deciding for when you want to choose just a few exchanges.
+
 India:
 
 [[CoinDCX]]
