@@ -18,6 +18,8 @@ Update: The rest of the stuff is somewhat finished, so now I'll do some lazy upd
 
 [[Social]]
 
+[[DeFi]]
+
 [[Research]]
 
 [[Misc]]

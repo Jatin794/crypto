@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exchanges.md",
+            "file": "readme.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exchanges.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4a4bf88bbc313d06",
   "lastOpenFiles": [
+    "readme.md",
+    "DeFi.md",
+    "Social.md",
+    "Research.md",
+    "Misc.md",
+    "Games.md",
+    "Faucets.md",
     "Exchanges.md",
-    "Buy & Exchanges/Kucoin.md",
-    "Buy & Exchanges/Phemex.md",
-    "Buy & Exchanges/Binance.md",
-    "Buy & Exchanges/Morpher.md",
-    "Buy & Exchanges/MEXC.md",
-    "Buy & Exchanges/WazirX.md",
-    "Buy & Exchanges/Latoken.md",
-    "Buy & Exchanges/Gate.md",
-    "Buy & Exchanges/FTX.md"
+    "DeFi/CakeDeFi.md",
+    "Buy & Exchanges/Stormgain.md"
   ]
 }
