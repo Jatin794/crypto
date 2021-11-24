@@ -22,6 +22,8 @@ Singapore:
 
 [[Phemex]]
 
+[[Bitrue]]
+
 China:
 
 [[Bitfinex]] (HK)

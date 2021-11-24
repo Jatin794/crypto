@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "readme.md",
+            "file": "Exchanges.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "Exchanges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4a4bf88bbc313d06",
   "lastOpenFiles": [
+    "Exchanges.md",
+    "Buy & Exchanges/Bitrue.md",
+    "Buy & Exchanges/Bithumb.md",
     "readme.md",
     "DeFi.md",
     "Social.md",
     "Research.md",
     "Misc.md",
     "Games.md",
-    "Faucets.md",
-    "Exchanges.md",
-    "DeFi/CakeDeFi.md",
-    "Buy & Exchanges/Stormgain.md"
+    "Faucets.md"
   ]
 }
