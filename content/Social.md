@@ -9,3 +9,5 @@ Want to talk to people who are as interested in crypto by now as you are and ear
 [[Read]]
 
 [[SteemIt]]
+
+Also check out [[Telegram]] for community links
